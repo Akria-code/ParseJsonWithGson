@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParseJsonWithGson</string>
+    <string name="button_parse">ParseWithGson</string>
+    <string name="text_width">show id</string>
+    <string name="text_height">show version</string>
+    <string name="text_depth">show name</string>
+</resources>
